@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "BOT_ACCOUNT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TungTungBoy67.aternos.me",
+    "ip": "SurvivalSMP-27.aternos.me",
     "port": 25182,
     "version": "",
     "try-creative": false
